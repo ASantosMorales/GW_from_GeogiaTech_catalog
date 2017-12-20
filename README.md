@@ -1,7 +1,7 @@
 # GW_from_GeogiaTech_catalog
 A little module in Python to get a specific waveform from the entire GeorgiaTech catalog
 
-The entire catalog can be download from:
+The entire catalog can be download here:
 http://www.einstein.gatech.edu/catalog/
 
 The way to call this module is the following:
